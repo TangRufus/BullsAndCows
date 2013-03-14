@@ -1,0 +1,274 @@
+Master, please enter the length of the secret numbers [3 to 7]?
+7
+Master, please enter the 7 digits secret number?
+0024776
+Guesser, please enter the 7 digits guess?
+3983684
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+---
+Guesser, please enter the 7 digits guess?
+4714117
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+---
+Guesser, please enter the 7 digits guess?
+8271091
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+---
+Guesser, please enter the 7 digits guess?
+7543858
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+---
+Guesser, please enter the 7 digits guess?
+5244528
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+---
+Guesser, please enter the 7 digits guess?
+3783833
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+---
+Guesser, please enter the 7 digits guess?
+8861016
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+---
+Guesser, please enter the 7 digits guess?
+3312591
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+---
+Guesser, please enter the 7 digits guess?
+8240360
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+---
+Guesser, please enter the 7 digits guess?
+8757925
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+---
+Guesser, please enter the 7 digits guess?
+8078178
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+---
+Guesser, please enter the 7 digits guess?
+8000778
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+Guess #12: 8000778 - Reply: 3 Bulls, 1 Cows.
+---
+Guesser, please enter the 7 digits guess?
+2470066
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+Guess #12: 8000778 - Reply: 3 Bulls, 1 Cows.
+Guess #13: 2470066 - Reply: 1 Bulls, 5 Cows.
+---
+Guesser, please enter the 7 digits guess?
+2840042
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+Guess #12: 8000778 - Reply: 3 Bulls, 1 Cows.
+Guess #13: 2470066 - Reply: 1 Bulls, 5 Cows.
+Guess #14: 2840042 - Reply: 0 Bulls, 4 Cows.
+---
+Guesser, please enter the 7 digits guess?
+6774020
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+Guess #12: 8000778 - Reply: 3 Bulls, 1 Cows.
+Guess #13: 2470066 - Reply: 1 Bulls, 5 Cows.
+Guess #14: 2840042 - Reply: 0 Bulls, 4 Cows.
+Guess #15: 6774020 - Reply: 1 Bulls, 6 Cows.
+---
+Guesser, please enter the 7 digits guess?
+0024007
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+Guess #12: 8000778 - Reply: 3 Bulls, 1 Cows.
+Guess #13: 2470066 - Reply: 1 Bulls, 5 Cows.
+Guess #14: 2840042 - Reply: 0 Bulls, 4 Cows.
+Guess #15: 6774020 - Reply: 1 Bulls, 6 Cows.
+Guess #16: 0024007 - Reply: 4 Bulls, 1 Cows.
+---
+Guesser, please enter the 7 digits guess?
+0524777
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+Guess #12: 8000778 - Reply: 3 Bulls, 1 Cows.
+Guess #13: 2470066 - Reply: 1 Bulls, 5 Cows.
+Guess #14: 2840042 - Reply: 0 Bulls, 4 Cows.
+Guess #15: 6774020 - Reply: 1 Bulls, 6 Cows.
+Guess #16: 0024007 - Reply: 4 Bulls, 1 Cows.
+Guess #17: 0524777 - Reply: 5 Bulls, 0 Cows.
+---
+Guesser, please enter the 7 digits guess?
+0925788
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+Guess #12: 8000778 - Reply: 3 Bulls, 1 Cows.
+Guess #13: 2470066 - Reply: 1 Bulls, 5 Cows.
+Guess #14: 2840042 - Reply: 0 Bulls, 4 Cows.
+Guess #15: 6774020 - Reply: 1 Bulls, 6 Cows.
+Guess #16: 0024007 - Reply: 4 Bulls, 1 Cows.
+Guess #17: 0524777 - Reply: 5 Bulls, 0 Cows.
+Guess #18: 0925788 - Reply: 3 Bulls, 0 Cows.
+---
+Guesser, please enter the 7 digits guess?
+0024775
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+Guess #12: 8000778 - Reply: 3 Bulls, 1 Cows.
+Guess #13: 2470066 - Reply: 1 Bulls, 5 Cows.
+Guess #14: 2840042 - Reply: 0 Bulls, 4 Cows.
+Guess #15: 6774020 - Reply: 1 Bulls, 6 Cows.
+Guess #16: 0024007 - Reply: 4 Bulls, 1 Cows.
+Guess #17: 0524777 - Reply: 5 Bulls, 0 Cows.
+Guess #18: 0925788 - Reply: 3 Bulls, 0 Cows.
+Guess #19: 0024775 - Reply: 6 Bulls, 0 Cows.
+---
+Guesser, please enter the 7 digits guess?
+0024776
+Guess #1: 3983684 - Reply: 0 Bulls, 2 Cows.
+Guess #2: 4714117 - Reply: 1 Bulls, 2 Cows.
+Guess #3: 8271091 - Reply: 0 Bulls, 3 Cows.
+Guess #4: 7543858 - Reply: 0 Bulls, 2 Cows.
+Guess #5: 5244528 - Reply: 1 Bulls, 1 Cows.
+Guess #6: 3783833 - Reply: 0 Bulls, 1 Cows.
+Guess #7: 8861016 - Reply: 1 Bulls, 1 Cows.
+Guess #8: 3312591 - Reply: 0 Bulls, 1 Cows.
+Guess #9: 8240360 - Reply: 0 Bulls, 5 Cows.
+Guess #10: 8757925 - Reply: 0 Bulls, 3 Cows.
+Guess #11: 8078178 - Reply: 2 Bulls, 1 Cows.
+Guess #12: 8000778 - Reply: 3 Bulls, 1 Cows.
+Guess #13: 2470066 - Reply: 1 Bulls, 5 Cows.
+Guess #14: 2840042 - Reply: 0 Bulls, 4 Cows.
+Guess #15: 6774020 - Reply: 1 Bulls, 6 Cows.
+Guess #16: 0024007 - Reply: 4 Bulls, 1 Cows.
+Guess #17: 0524777 - Reply: 5 Bulls, 0 Cows.
+Guess #18: 0925788 - Reply: 3 Bulls, 0 Cows.
+Guess #19: 0024775 - Reply: 6 Bulls, 0 Cows.
+Guess #20: 0024776 - Reply: 7 Bulls!
+

@@ -1,0 +1,86 @@
+Master, please enter the length of the secret numbers [3 to 7]?
+ABC
+Error, invalid input, please try again!
+
+Master, please enter the length of the secret numbers [3 to 7]?
+-1
+Error, invalid input, please try again!
+
+Master, please enter the length of the secret numbers [3 to 7]?
+2
+Error, invalid input, please try again!
+
+Master, please enter the length of the secret numbers [3 to 7]?
+8
+Error, invalid input, please try again!
+
+Master, please enter the length of the secret numbers [3 to 7]?
+15
+Error, invalid input, please try again!
+
+Master, please enter the length of the secret numbers [3 to 7]?
+4
+Master, please enter the 4 digits secret number?
+534
+Error, invalid input, please try again!
+
+Master, please enter the 4 digits secret number?
+88235
+Error, invalid input, please try again!
+
+Master, please enter the 4 digits secret number?
+ab32
+Error, invalid input, please try again!
+
+Master, please enter the 4 digits secret number?
+0a24
+Error, invalid input, please try again!
+
+Master, please enter the 4 digits secret number?
+002d
+Error, invalid input, please try again!
+
+Master, please enter the 4 digits secret number?
+0112
+Guesser, please enter the 4 digits guess?
+12345
+Error, invalid input, please try again!
+
+Guesser, please enter the 4 digits guess?
+011a
+Error, invalid input, please try again!
+
+Guesser, please enter the 4 digits guess?
+c112
+Error, invalid input, please try again!
+
+Guesser, please enter the 4 digits guess?
+1203
+Guess #1: 1203 - Reply: 0 Bulls, 3 Cows.
+---
+Guesser, please enter the 4 digits guess?
+0123
+Guess #1: 1203 - Reply: 0 Bulls, 3 Cows.
+Guess #2: 0123 - Reply: 2 Bulls, 1 Cows.
+---
+Guesser, please enter the 4 digits guess?
+4123
+Guess #1: 1203 - Reply: 0 Bulls, 3 Cows.
+Guess #2: 0123 - Reply: 2 Bulls, 1 Cows.
+Guess #3: 4123 - Reply: 1 Bulls, 1 Cows.
+---
+Guesser, please enter the 4 digits guess?
+0023
+Guess #1: 1203 - Reply: 0 Bulls, 3 Cows.
+Guess #2: 0123 - Reply: 2 Bulls, 1 Cows.
+Guess #3: 4123 - Reply: 1 Bulls, 1 Cows.
+Guess #4: 0023 - Reply: 1 Bulls, 1 Cows.
+---
+Guesser, please enter the 4 digits guess?
+0112
+Guess #1: 1203 - Reply: 0 Bulls, 3 Cows.
+Guess #2: 0123 - Reply: 2 Bulls, 1 Cows.
+Guess #3: 4123 - Reply: 1 Bulls, 1 Cows.
+Guess #4: 0023 - Reply: 1 Bulls, 1 Cows.
+Guess #5: 0112 - Reply: 4 Bulls!
+
